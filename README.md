@@ -48,10 +48,10 @@ Copy code
 HUGGINGFACE_API_TOKEN=your_huggingface_api_token_here
 Note: Ensure the .env file is included in your .gitignore to prevent exposing sensitive information.
 
-5. Run the Application Locally
+### 5. Run the Application Locally
 Start the Streamlit app:
 
-bash
+'''bash
 Copy code
 streamlit run app.py
 Access the app in your browser at http://localhost:8501.
