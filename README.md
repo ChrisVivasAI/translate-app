@@ -27,7 +27,7 @@ Follow these steps to set up and deploy the application:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/translation_app.git
+git clone https://github.com/ChrisVivasAI/translate-app
 cd translation_app
 ```
 
